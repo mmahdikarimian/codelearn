@@ -1,0 +1,15 @@
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\bin\Debug\net6.0\ReverseStringCase.exe
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\bin\Debug\net6.0\ReverseStringCase.deps.json
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\bin\Debug\net6.0\ReverseStringCase.runtimeconfig.json
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\bin\Debug\net6.0\ReverseStringCase.dll
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\bin\Debug\net6.0\ReverseStringCase.pdb
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.csproj.AssemblyReference.cache
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.AssemblyInfoInputs.cache
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.AssemblyInfo.cs
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.csproj.CoreCompileInputs.cache
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.dll
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\refint\ReverseStringCase.dll
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.pdb
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ReverseStringCase.genruntimeconfig.cache
+D:\programming\codelearn\CodeLearnTasks\ReverseStringCase\obj\Debug\net6.0\ref\ReverseStringCase.dll
