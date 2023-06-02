@@ -1,12 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-using ReverseStringCase;
+﻿using ReverseStringCase;
 
-Console.WriteLine("Hello, World!");
+Task_11_3_1402 task = new Task_11_3_1402();
 
-
-while (true)
-{
-    var input = Console.ReadLine();
-    Console.WriteLine(StringReverser.Reverse(input));
-}
-
+task.StudentAverages();
